@@ -1,6 +1,9 @@
 ---
-layout: post
-title: Effective Use of Demographic Information: Presenting at the NYC School of Data
+title: 'Effective Use of Demographic Information: Presenting at the NYC School of Data'
+date: 2020-04-01
+permalink: /posts/2020/04/
+tags:
+  - talks
 ---
 
 [![Alt text](https://img.youtube.com/vi/0EdsYzzndsw&t/0.jpg)](https://www.youtube.com/watch?v=0EdsYzzndsw&t)
