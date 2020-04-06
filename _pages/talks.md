@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## SQL for Data Science
 *April 14, 2020*
+
 I will be leading a 3 hour workshop titled _SQL for Data Science_ at ODSC East. Stay tuned for more details!
 
 ## Effective Use of Demographic Information
