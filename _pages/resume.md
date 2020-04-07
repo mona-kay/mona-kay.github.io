@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+Download pdf [here](/files/resume.pdf).
+
 ![](/images/resume.jpg)
