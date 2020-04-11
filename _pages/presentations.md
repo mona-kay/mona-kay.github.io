@@ -20,7 +20,7 @@ You can access the slides for this presentation [here](/files/demographic_info.p
 
 # Tutorials
 
-## Measurement Development
+## Research Methods
 [Effective Use of Demographic Information](https://medium.com/in-the-weeds/effective-use-of-demographic-information-e2b61a90f38)
 
 [Greenhouse's Scorecard System](https://medium.com/in-the-weeds/greenhouses-scorecard-rating-system-d66eb16d4306)
