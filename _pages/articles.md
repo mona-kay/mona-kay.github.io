@@ -13,4 +13,4 @@ author_profile: true
 ## SQL
 [SQL "Dialect" Differences](https://www.datacamp.com/community/blog/sql-differences)
 
-[Webinar: Spend Less Time in Spreadsheets Using SQL](https://www.youtube.com/watch?v=ZfWRdQwbd4Q) _February 2019_
+[Webinar: Spend Less Time in Spreadsheets Using SQL](https://www.youtube.com/watch?v=ZfWRdQwbd4Q) _Delivered February 2019_
