@@ -5,12 +5,12 @@ permalink: /articles/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Research Methods
+[Effective Use of Demographic Information](https://medium.com/in-the-weeds/effective-use-of-demographic-information-e2b61a90f38)
 
-{% include base_path %}
+[Greenhouse's Scorecard System](https://medium.com/in-the-weeds/greenhouses-scorecard-rating-system-d66eb16d4306)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## SQL
+[SQL "Dialect" Differences](https://www.datacamp.com/community/blog/sql-differences)
+
+[Webinar: Spend Less Time in Spreadsheets Using SQL](https://www.youtube.com/watch?v=ZfWRdQwbd4Q) _February 2019_
