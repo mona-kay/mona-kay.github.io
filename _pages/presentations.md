@@ -9,7 +9,7 @@ author_profile: true
 ## SQL for Data Science
 *April 14, 2020*
 
-I will be leading a 3 hour workshop titled _SQL for Data Science_ at ODSC East. Stay tuned for more details!
+I led a 3 hour workshop titled _SQL for Data Science_ at ODSC East's 2020 Virtual Conference. You can find all of the materials from this session [here](https://github.com/mona-kay/odsc-sql-for-data-science).
 
 ## Effective Use of Demographic Information
 *March 8, 2020*
