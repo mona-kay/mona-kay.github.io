@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I've been consulting on a variety of projects across industries for more than 3 years. Some of my consulting engagements include:
+I've been consulting on a variety of projects across industries for more than 5 years. Some of my consulting engagements include:
 
 - **Machine Learning Training:** training marketing analysts in advertising/market research companies to effectively use dimensionality reduction techniques (principal component analysis, discriminant analysis) using SPSS and R
 - **Analytics Consulting:** training data analysts in education to effectively analyze and communicate results from smaller data sets for consumption by non-technical audiences, including teachers and school administrators
