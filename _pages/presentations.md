@@ -9,7 +9,7 @@ author_profile: true
 ## Employment Trends
 *June 12, 2020*
 
-I'm speaking about hiring trends at [Out in Tech Talks | Career Edition](https://outintechtalks.splashthat.com/).
+I'm speaking about hiring trends at [Out in Tech Talks - Career Edition](https://outintechtalks.splashthat.com/).
 
 ## SQL for Data Science
 *April 14, 2020*
