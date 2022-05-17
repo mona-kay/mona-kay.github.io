@@ -4,7 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Articles](_pages/articles.md)
+[Talks](_pages/talks.md)
+[Courses](_pages/courses.md)
+[Podcast](_pages/podcast.md)
 
 There should be whitespace between paragraphs.
 
