@@ -2,5 +2,9 @@ theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
 
-title: Mona the Data Human
+
+title: Hi, I'm Mona.
+logo: /assets/img/profile.png
 description: Data Science Manager @ Greenhouse Software. I teach things and speak at conferences every so often. I care immensely about accessibility of information and ethics in data science.
+show_downloads: true
+google_analytics:
