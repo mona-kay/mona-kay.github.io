@@ -26,3 +26,5 @@ layout: default
 - [Greenhouse's Scorecard System](https://medium.com/in-the-weeds/greenhouses-scorecard-rating-system-d66eb16d4306)
 - [SQL "Dialect" Differences](https://www.datacamp.com/community/blog/sql-differences)
 - [Webinar: Spend Less Time in Spreadsheets Using SQL](https://www.youtube.com/watch?v=ZfWRdQwbd4Q)
+
+[Home](./)
