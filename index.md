@@ -4,7 +4,7 @@ layout: default
 
 This page is under construction. In the mean time, check out these pages.
 
-[Portfolio](_pages/portfolio.md)
+[Portfolio](./portfolio.md)
 [Podcast](_pages/podcast.md)
 
 # Talks
