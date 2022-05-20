@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Consulting Experience
+## Consulting 
 I've been consulting on a variety of projects across industries for more than 5 years. Some of my consulting engagements include:
 
 - **Machine Learning Training:** training marketing analysts in advertising/market research companies to effectively use dimensionality reduction techniques (principal component analysis, discriminant analysis) using SPSS and R
@@ -24,3 +24,5 @@ I am particularly experienced in consulting and delivering trainings on the foll
 ## Contact
 
 Interested in speaking further about how I can support you and your team? Send me a message at [monakay@protonmail.com](mailto:monakay@protonmail.com) and include the subject line **Consulting**.
+
+[Home](./)
