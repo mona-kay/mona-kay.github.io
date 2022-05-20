@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /consulting/
+permalink: /consulting
 author_profile: true
 redirect_from:
   - /consulting
