@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Download pdf [here](/files/resume.pdf).
+Download pdf [here](/_files/resume.pdf).
 
-![](/images/resume.jpg)
+![](/_files/resume.jpg)

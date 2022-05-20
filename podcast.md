@@ -5,7 +5,7 @@ permalink: /podcast/
 author_profile: true
 ---
 
-![](/images/mousybig.png)
+![](/_files/mousybig.png)
 
 _Bad Methods_ critiques peer reviewed papers, theories, and trends within the social sciences. We aim to keep episodes under an hour and publish a new episode approximately once per month. As we continue to improve upon the audio quality and personality of this podcast, we may choose to release episodes more frequently.
 

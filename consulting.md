@@ -7,8 +7,6 @@ redirect_from:
   - /consulting
 ---
 
-{% include base_path %}
-
 ## Consulting Experience
 I've been consulting on a variety of projects across industries for more than 5 years. Some of my consulting engagements include:
 
