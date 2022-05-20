@@ -27,3 +27,11 @@ This page is under construction. In the mean time, check out these pages.
 - [Data Science for Business Decisions](https://execed.alliancembs.manchester.ac.uk/data-science?utm_content=University&utm_term=Alliance-Manchester-Business-School&utm_campaign=direct_EmWebsite_University_Alliance-Manchester-Business-School) with Emeritus Institute of Management
 - [Python for Data Science](https://emeritus.org/management-certificate-programs/python-for-data-science/) with Emeritus Institute of Management
 - [Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql) with DataCamp
+
+
+# Articles & Brief Presentations
+
+- [Effective Use of Demographic Information](https://medium.com/in-the-weeds/effective-use-of-demographic-information-e2b61a90f38)
+- [Greenhouse's Scorecard System](https://medium.com/in-the-weeds/greenhouses-scorecard-rating-system-d66eb16d4306)
+- [SQL "Dialect" Differences](https://www.datacamp.com/community/blog/sql-differences)
+- [Webinar: Spend Less Time in Spreadsheets Using SQL](https://www.youtube.com/watch?v=ZfWRdQwbd4Q)
