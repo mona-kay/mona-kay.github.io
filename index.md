@@ -5,7 +5,6 @@ layout: default
 This page is under construction. In the mean time, check out these pages.
 
 [Articles](_pages/articles.md)
-[Courses](_pages/courses.md)
 [Podcast](_pages/podcast.md)
 
 # Talks
@@ -19,12 +18,12 @@ This page is under construction. In the mean time, check out these pages.
 
 # Courses
 
-- **[Complete Python Fundamentals]**(https://aiplus.odsc.com/courses/complete-python-fundamentals) with AI+ from ODSC
+- [Complete Python Fundamentals](https://aiplus.odsc.com/courses/complete-python-fundamentals) with AI+ from ODSC
 
-- **[SQL for Data Science]**(https://aiplus.odsc.com/courses/sql-for-data-science)  with AI+ from ODSC
+- [SQL for Data Science](https://aiplus.odsc.com/courses/sql-for-data-science)  with AI+ from ODSC
 
-- **[Data Science for Business Decisions]**(https://execed.alliancembs.manchester.ac.uk/data-science?utm_content=University&utm_term=Alliance-Manchester-Business-School&utm_campaign=direct_EmWebsite_University_Alliance-Manchester-Business-School) with Emeritus Institute of Management
+- [Data Science for Business Decisions](https://execed.alliancembs.manchester.ac.uk/data-science?utm_content=University&utm_term=Alliance-Manchester-Business-School&utm_campaign=direct_EmWebsite_University_Alliance-Manchester-Business-School) with Emeritus Institute of Management
 
-- **[Python for Data Science]**(https://emeritus.org/management-certificate-programs/python-for-data-science/) with Emeritus Institute of Management
+- [Python for Data Science](https://emeritus.org/management-certificate-programs/python-for-data-science/) with Emeritus Institute of Management
 
-- **[Intermediate SQL]**(https://www.datacamp.com/courses/intermediate-sql) with DataCamp
+- [Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql) with DataCamp
