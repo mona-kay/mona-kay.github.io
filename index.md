@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This page is under construction. In the mean time, check out these pages.
+This page is under construction. 
 
 [Portfolio](./portfolio.md)
 [Podcast](_pages/podcast.md)
