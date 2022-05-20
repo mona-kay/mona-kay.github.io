@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: archive
+title: ""
+permalink: /consulting/
+author_profile: true
+redirect_from:
+  - /consulting
 ---
-
-This page is under construction. In the mean time, check out these pages.
-
-[Portfolio](_pages/portfolio.md)
-[Podcast](_pages/podcast.md)
 
 # Talks
 
