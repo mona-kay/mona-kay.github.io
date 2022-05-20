@@ -1,10 +1,5 @@
 ---
-layout: archive
-title: ""
-permalink: /consulting/
-author_profile: true
-redirect_from:
-  - /consulting
+layout: default
 ---
 
 ## Consulting Experience

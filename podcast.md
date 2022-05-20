@@ -1,8 +1,5 @@
 ---
-layout: archive
-title: ""
-permalink: /podcast/
-author_profile: true
+layout: default
 ---
 
 ![](/_files/mousybig.png)

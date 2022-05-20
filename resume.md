@@ -1,10 +1,5 @@
 ---
-layout: archive
-title: ""
-permalink: /resume/
-author_profile: true
-redirect_from:
-  - /resume
+layout: default
 ---
 
 
