@@ -23,4 +23,4 @@ I am particularly experienced in consulting and delivering trainings on the foll
 
 ## Contact
 
-Interested in speaking further about how I can support you and your team? Send me a message at [monakay@protonmail.com](mailto:monakay@protonmail.com) and include the subject line _Consulting_.
+Interested in speaking further about how I can support you and your team? Send me a message at [monakay@protonmail.com](mailto:monakay@protonmail.com) and include the subject line **Consulting**.

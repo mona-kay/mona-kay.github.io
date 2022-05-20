@@ -6,6 +6,8 @@ I'm Mona Khalil, Data Science Manager at Greenhouse Software. I have a consisten
 
 I teach a variety of topics and speak at conferences semi-frequently. I'm passionate about accessibility of information and the ethical use of machine learning.
 
+Please feel free to get in touch at [monakay@protonmail.com](mailto:monakay@protonmail.com). 
+
 [Download my resume](./resume.pdf)
 
 [Check out my portfolio](./portfolio.md)
