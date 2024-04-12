@@ -2,8 +2,14 @@
 layout: default
 ---
 
+# Book
+
+[Effective Data Analysis (Manning Publications)](https://www.manning.com/books/effective-data-analysis)
+
+
 # Talks
 
+- **The Implications of Generative AI in Hiring** _(April 2022)_: at Cannes-Lyons Creativity Festival; discuss and estimate the potential impact that generative AI can have on hiring. Recommend ways to evaluate its potential for bias in the hiring process, and how to use it responsibly.
 - **Leveling up your organization's capacity for data-informed decisions** _(April 2022)_: advice & learnings on how to maximize value from your work in data science.
 - **Responsible use of demographic information** _(March 2022)_: co-delivered an updated version of the same workshop from 2020. [Recording available here](https://youtu.be/1Uc6OKPN4Rw).
 - **SQL for data science** _(2020, 2021, and 2022)_: a 3-hour workshop delivered annually at ODSC East's virtual conference and bootcamp. Materials available [here](https://github.com/mona-kay/odsc-sql-for-data-science).
