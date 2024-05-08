@@ -14,8 +14,6 @@ Please feel free to get in touch at [monakay@protonmail.com](mailto:monakay@prot
 
 [Book: Effective Data Analysis](https://www.manning.com/books/effective-data-analysis)
 
-[Talks and Publications](./publications.md)
-
 [Consulting](./consulting.md)
 
 [(Mostly inactive) podcast](./podcast.md)
