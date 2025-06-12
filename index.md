@@ -2,18 +2,13 @@
 layout: default
 ---
 
-I'm Mona Khalil, Senior Manager of Data Science at Greenhouse Software. In my current role, I work with the product and engineering departments to prioritize work, set goals, understand our users' behavior, and make our data more valuable to enable everyone using it. I have a consistent record of strategic planning, leading high performing teams, and stakeholder collaboration. I'm passionate about using data science to enable my stakeholders to make confident decisions and solving pain points for the users my team and I support. 
+I'm Mona Khalil, Senior Manager of Analytics Engineering at Justworks. I work with teams across the company to make our data more accessible, trustworthy, and consistent. I leverage my 10 years of experience in data science & analytics to inform our strategy for data governance, self-service, and overall data maturity. I'm passionate about facilitating confident decisions in and outside of our data practice, reducing time to insight and making it possible for more of our team members to build their skills in data literacy. 
 
-In addition, I enjoy teaching and speaking on a variety of topics in statistics, analytics, and data ethics. I'm passionate about making data accessible and ensuring that data professionals produce ethical and high quality outputs.
+In addition, I enjoy sharing knowledge, information, and best practices with others just as was shared with me. I'm passionate about data ethics, rigorous methodologies, and data literacy. I teach, write, and mentor wherever I can.
 
-Please feel free to get in touch at [monakay@protonmail.com](mailto:monakay@protonmail.com). 
+- [My book: Effective Data Analysis](https://www.manning.com/books/effective-data-analysis)
+- [My resume](./resume.pdf)
+- [My portfolio](./portfolio.md)
+- Contact me at [monakay@protonmail.com](mailto:monakay@protonmail.com). 
 
-[Resume](./resume.pdf)
 
-[Portfolio](./portfolio.md)
-
-[Book: Effective Data Analysis](https://www.manning.com/books/effective-data-analysis)
-
-[Consulting](./consulting.md)
-
-[(Mostly inactive) podcast](./podcast.md)
