@@ -7,8 +7,9 @@ I'm Mona Khalil, Senior Manager of Analytics Engineering at Justworks. I work wi
 In addition, I enjoy sharing knowledge, information, and best practices with others just as was shared with me. I'm passionate about data ethics, rigorous methodologies, and data literacy. I teach, write, and mentor wherever I can.
 
 - [My book: Effective Data Analysis](https://www.manning.com/books/effective-data-analysis)
-- [My resume](./resume.pdf)
-- [My portfolio](./portfolio.md)
+- [Resume](./resume.pdf)
+- [Portfolio](./portfolio.md)
+- [Github](https://github.com/mona-kay/)
 - Contact me at [monakay@protonmail.com](mailto:monakay@protonmail.com). 
 
 
