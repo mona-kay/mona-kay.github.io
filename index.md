@@ -2,14 +2,33 @@
 layout: default
 ---
 
-I'm Mona Khalil, Senior Manager of Analytics Engineering at Justworks. I work with teams across the company to make our data more accessible, trustworthy, and consistent. I leverage my 10 years of experience in data science & analytics to inform our strategy for data governance, self-service, and overall data maturity. I'm passionate about facilitating confident decisions in and outside of our data practice, reducing time to insight and making it possible for more of our team members to build their skills in data literacy. 
+Senior Manager of Data Management & Governance at Justworks. I lead strategy for data governance, quality, and accessibility — making it possible for teams across the organization to trust and use data with confidence.
 
-In addition, I enjoy sharing knowledge, information, and best practices with others just as was shared with me. I'm passionate about data ethics, rigorous methodologies, and data literacy. I teach, write, and mentor wherever I can.
+Over 10 years in data science and analytics, I've focused on reducing time to insight, building self-service capabilities, and raising data literacy at every level of the organization.
 
-- [My book: Effective Data Analysis](https://www.manning.com/books/effective-data-analysis)
+I teach, write, and share what I've learned.
+
+---
+
+## Book
+
+[Effective Data Analysis](https://www.manning.com/books/effective-data-analysis) -- Manning Publications
+
+## Selected Talks
+
+- **The Implications of Generative AI in Hiring** -- Cannes-Lions Creativity Festival
+- **Leveling Up Your Organization's Capacity for Data-Informed Decisions** -- ODSC East
+- **Responsible Use of Demographic Information** -- NYC School of Data
+
+## Courses
+
+- [Complete Python Fundamentals](https://aiplus.odsc.com/courses/complete-python-fundamentals) -- AI+ / ODSC
+- [SQL for Data Science](https://aiplus.odsc.com/courses/sql-for-data-science) -- AI+ / ODSC
+- [Data Science for Business Decisions](https://execed.alliancembs.manchester.ac.uk/data-science?utm_content=University&utm_term=Alliance-Manchester-Business-School&utm_campaign=direct_EmWebsite_University_Alliance-Manchester-Business-School) -- Emeritus
+
+---
+
+- [Full Portfolio](./portfolio)
 - [Resume](./resume.pdf)
-- [Portfolio](./portfolio.md)
-- [Github](https://github.com/mona-kay/)
-- Contact me at [monakay@protonmail.com](mailto:monakay@protonmail.com). 
-
-
+- [GitHub](https://github.com/mona-kay/)
+- [monakay@protonmail.com](mailto:monakay@protonmail.com)

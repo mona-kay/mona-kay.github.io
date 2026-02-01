@@ -2,35 +2,32 @@
 layout: default
 ---
 
-# Book
+# Portfolio
 
-[Effective Data Analysis (Manning Publications)](https://www.manning.com/books/effective-data-analysis)
+## Book
 
+[Effective Data Analysis](https://www.manning.com/books/effective-data-analysis) -- Manning Publications
 
-# Talks
+## Talks
 
-- **The Implications of Generative AI in Hiring** _(April 2022)_: at Cannes-Lyons Creativity Festival; discuss and estimate the potential impact that generative AI can have on hiring. Recommend ways to evaluate its potential for bias in the hiring process, and how to use it responsibly.
-- **Leveling up your organization's capacity for data-informed decisions** _(April 2022)_: advice & learnings on how to maximize value from your work in data science.
-- **Responsible use of demographic information** _(March 2022)_: co-delivered an updated version of the same workshop from 2020. [Recording available here](https://youtu.be/1Uc6OKPN4Rw).
-- **SQL for data science** _(2020, 2021, and 2022)_: a 3-hour workshop delivered annually at ODSC East's virtual conference and bootcamp. Materials available [here](https://github.com/mona-kay/odsc-sql-for-data-science).
-- **Employment trends** _(June 2020)_: trends in hiring during the pandemic at [Out in Tech Talks - Career Edition](https://outintechtalks.splashthat.com/).
-- **Effective use of demographic information** _(March 2020)_: co-delivered a workshop with Devin Johnson at [NYC School of Data](https://www.schoolofdata.nyc/). [Slides](/files/demographic_info.pdf) and [recording](https://www.youtube.com/watch?v=0EdsYzzndsw&t) available.
+- **The Implications of Generative AI in Hiring** *(April 2022)* -- Cannes-Lions Creativity Festival. Estimating the potential impact of generative AI on hiring, evaluating bias, and using it responsibly.
+- **Leveling Up Your Organization's Capacity for Data-Informed Decisions** *(April 2022)* -- ODSC East. Advice and learnings on maximizing value from data science work.
+- **Responsible Use of Demographic Information** *(March 2022)* -- NYC School of Data. Co-delivered with Devin Johnson. [Recording](https://youtu.be/1Uc6OKPN4Rw)
+- **SQL for Data Science** *(2020--2022)* -- ODSC East, annual 3-hour workshop. [Materials](https://github.com/mona-kay/odsc-sql-for-data-science)
+- **Employment Trends** *(June 2020)* -- [Out in Tech Talks](https://outintechtalks.splashthat.com/), trends in hiring during the pandemic.
+- **Effective Use of Demographic Information** *(March 2020)* -- NYC School of Data. Co-delivered with Devin Johnson. [Slides](/files/demographic_info.pdf) and [recording](https://www.youtube.com/watch?v=0EdsYzzndsw&t)
 
+## Courses
 
-# Courses
+- [Complete Python Fundamentals](https://aiplus.odsc.com/courses/complete-python-fundamentals) -- AI+ / ODSC
+- [SQL for Data Science](https://aiplus.odsc.com/courses/sql-for-data-science) -- AI+ / ODSC
+- [Data Science for Business Decisions](https://execed.alliancembs.manchester.ac.uk/data-science?utm_content=University&utm_term=Alliance-Manchester-Business-School&utm_campaign=direct_EmWebsite_University_Alliance-Manchester-Business-School) -- Emeritus
+- [Python for Data Science](https://emeritus.org/management-certificate-programs/python-for-data-science/) -- Emeritus
+- [Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql) -- DataCamp
 
-- [Complete Python Fundamentals](https://aiplus.odsc.com/courses/complete-python-fundamentals) with AI+ from ODSC
-- [SQL for Data Science](https://aiplus.odsc.com/courses/sql-for-data-science)  with AI+ from ODSC
-- [Data Science for Business Decisions](https://execed.alliancembs.manchester.ac.uk/data-science?utm_content=University&utm_term=Alliance-Manchester-Business-School&utm_campaign=direct_EmWebsite_University_Alliance-Manchester-Business-School) with Emeritus Institute of Management
-- [Python for Data Science](https://emeritus.org/management-certificate-programs/python-for-data-science/) with Emeritus Institute of Management
-- [Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql) with DataCamp
-
-
-# Articles & Brief Presentations
+## Writing
 
 - [Effective Use of Demographic Information](https://medium.com/in-the-weeds/effective-use-of-demographic-information-e2b61a90f38)
 - [Greenhouse's Scorecard System](https://medium.com/in-the-weeds/greenhouses-scorecard-rating-system-d66eb16d4306)
 - [SQL "Dialect" Differences](https://www.datacamp.com/community/blog/sql-differences)
 - [Webinar: Spend Less Time in Spreadsheets Using SQL](https://www.youtube.com/watch?v=ZfWRdQwbd4Q)
-
-[Home](./)
