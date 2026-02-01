@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 plugins:
-- jekyll-remote-theme
+- jekyll-seo-tag
 
-title: Hi, I'm Mona.
+title: Mona Khalil
 logo: /assets/img/profile.png
-#description: Data Scientist, manager, and educator.
+description: Data Management & Governance Leader, Author & Educator
